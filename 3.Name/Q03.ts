@@ -1,4 +1,4 @@
-let myName = "Owais Abdullah";
+let myName = "OwAis abduLlah";
 console.log(myName.toUpperCase());
 console.log(myName.toLowerCase());
 
